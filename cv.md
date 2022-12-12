@@ -21,3 +21,14 @@
  #### - execution of contracts and relevant documentation for medical and personal insurance;
  #### - reporting on the results of the conclusion of insurance contracts, the implementation of insurance payments, refunds of insurance premiums, the formation of insurance reserves;
  #### - maintaining databases by types of health insurance, their support, writing technical specifications for improving databases.
+ ### Additional Information:
+ #### - red diploma, gold medal:
+ #### - knowledge of foreign languages: English, French;
+ #### - confident PC user;
+ #### - category B driver's license
+ ### Personal qualities: 
+ #### - initiative, 
+ ##### - efficiency, 
+ #### - attentiveness, 
+ #### - responsibility, 
+ #### - diligence.
