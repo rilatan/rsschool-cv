@@ -14,3 +14,10 @@
  ### Branch "Eximgarant-Minsk":
  #### - 01.05.2010 - 30.09.2011 - head of the medical and personal insurance department of the health insurance department.
  #### - 10/01/2011 - July 2015 - Deputy Head of the Medical Insurance Department - Head of the Medical and Personal Insurance Department.
+ #### July 2015 - present - maternity leave.
+ ### Professional skills:
+ #### - active work and communication with clients, the ability to negotiate convincingly and reasonably;
+ #### - experience in improving insurance products, insurance rules and methodology;
+ #### - execution of contracts and relevant documentation for medical and personal insurance;
+ #### - reporting on the results of the conclusion of insurance contracts, the implementation of insurance payments, refunds of insurance premiums, the formation of insurance reserves;
+ #### - maintaining databases by types of health insurance, their support, writing technical specifications for improving databases.
