@@ -1,34 +1,60 @@
-# CV
- ## RABOTKINA NATALLIA
- ### Date of birth 05.04.1984
- ### Born in Minsk. Married. 2 children.
- ### Higher economic education. In 2006 she graduated from the Belarusian State Economic University, majoring in finance and credit, qualified as an economist, specializing in insurance business. A bachelor's degree in economics.
- ## Labor activity:
- ### "Eximgarant of Belarus":
- #### - 01.2006 – 04.2006, 1st category specialist of the marketing and external relations department of the underwriting and insurance projects service.
- ### - Branch "Eximgarant-Minsk": 
- #### - 22.08.2006 - 31.01.2008 - Specialist of the 1st category of the Department of Medical and Personal Insurance of the Health Insurance Department.
- #### - 01.02.2008 - 31.03.2009 - leading specialist of the medical and personal insurance department of the health insurance department.
- ### "Eximgarant of Belarus":
- #### - 01.04.2009 - 30.04.2010 - Deputy Head of the Regional Development and Methodology Department of the Health Insurance Department.
- ### Branch "Eximgarant-Minsk":
- #### - 01.05.2010 - 30.09.2011 - head of the medical and personal insurance department of the health insurance department.
- #### - 10/01/2011 - July 2015 - Deputy Head of the Medical Insurance Department - Head of the Medical and Personal Insurance Department.
- #### July 2015 - present - maternity leave.
- ### Professional skills:
- #### - active work and communication with clients, the ability to negotiate convincingly and reasonably;
- #### - experience in improving insurance products, insurance rules and methodology;
- #### - execution of contracts and relevant documentation for medical and personal insurance;
- #### - reporting on the results of the conclusion of insurance contracts, the implementation of insurance payments, refunds of insurance premiums, the formation of insurance reserves;
- #### - maintaining databases by types of health insurance, their support, writing technical specifications for improving databases.
- ### Additional Information:
- #### - red diploma, gold medal:
- #### - knowledge of foreign languages: English, French;
- #### - confident PC user;
- #### - category B driver's license
- ### Personal qualities: 
- #### - initiative, 
- ##### - efficiency, 
- #### - attentiveness, 
- #### - responsibility, 
- #### - diligence.
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+<title>Базовая разметка HTML</title>
+</head>
+<body>
+  <h1>Natallia Rabotkina</h1>
+  <img src="https://avatars.githubusercontent.com/u/120120211?v=4" alt="profile picture" width="240" height="240">
+<p>
+ <h2>Contacts</h2>
+ <ul>
+      <li>Location: Minsk, Belarus</li>
+      <li>Phone: +375 29 617-20-35</li>
+      <li>Email: rilatan@mail.ru</li>
+ </ul>
+ <h2>About Me</h2>
+ <p>I am proactive, hardworking, attentive and responsible. I have experience of work in a managerial position, I am sociable and have excellent negotiation skills. I know how to properly organize the work process and rally the team. I love learning new things and applying it to my work.</p>
+ <h2>Skills</h2>
+ <ul>
+ <li>HTML</li>
+ <li>CSS</li>
+ <li>Git</li>
+ </ul>
+ <h2>Education:</h2>
+ <ul>
+ <li><b>University:</b>
+<ul>
+<li>Belarusian State Economic University, Financial  Faculty</li>
+<li>Years: 2001-2006</li>
+<li>Specialization: insurance, Bachelor's degree in economics</li>
+ </ul>
+ <li><b>Courses:</b>
+<ul>
+<li>RS Schools «JavaScript/Front-end. Stage 0»</li>
+ </ul>
+ </ul>
+ <h2>Work experience</h2>
+ <p>I started my career in 2006 in export-import insurance company "Eximgarant of Belarus” where my latest position was Deputy Head of the Medical Insurance Department. Since 2015 I’m in maternity leave. My responsibilities included:</p>
+<ul>
+<li> active work and communication with clients, the ability to negotiate convincingly and reasonably;</li>
+<li>improving insurance products, insurance rules and methodology;</li>
+<li>execution of contracts and relevant documentation for medical and personal insurance;</li>
+<li>maintaining databases writing technical specifications for improving databases.</li>
+</ul>
+<h2>Languages:</h2>
+<ul>
+<li>English (level B2)</li>
+<li>French (level B2)</li>
+<li>Russian (native)</li>
+</ul>
+<footer>
+<address>
+<a href="https://rilatan.github.io/rsschool-cv/">My GitHub</a></address>
+<time datetime="2022">2022</time> 
+<img src="https://rs.school/images/rs_school_js.svg" alt="Логотип" width="48" height="48">
+<a href="https://app.rs.school">Курс JS/FE Pre-School2022Q4 </a>
+</footer>
+</body>
+</html>
